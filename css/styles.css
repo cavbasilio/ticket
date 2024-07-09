@@ -1,0 +1,31 @@
+/* Estilização do corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+ 
+}
+.btn-group{
+    background-color: ;
+    margin: 20px;
+   
+}
+.btn.btn-primary{
+    margin: 10px;
+}
+
+.btn.btn-danger{
+    margin: 10px;
+}
+
+.form-control{
+    width: 140px;
+    margin: 10px;
+ 
+    
+}
+
+.col-md-4{
+    border: 3px solid orange;
+    border-radius: 10px;
+   
+}
